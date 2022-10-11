@@ -1,6 +1,5 @@
 
 ### ![Banner para Linkedin Profesional Negro](https://user-images.githubusercontent.com/101297908/194783242-c9530da4-0098-4c28-85be-eb1d162eac94.gif)
-![logo ejemplo](https://user-images.githubusercontent.com/101297908/195171489-d3febd9c-59dc-4d19-9649-174bdc5f16e5.gif)
 
 Hola a todos 👋 mi nombre es Francisco y quiero contarte sobre mi ↙
 
