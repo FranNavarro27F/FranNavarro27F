@@ -18,7 +18,7 @@ Soy Full Stack web Developer graduado 🎓 en Henry, con la programación encont
 
 ### Contactame 💼
 <p align="left">
-<a href="mailto:fran27dev@gmail.com" target="blank"><img align="center" margin="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"  alt="francisco navarro" height="28" width="32" /></a><a href="https://www.linkedin.com/in/fran-navarro-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco navarro" height="30" width="40" /></a>
+<a href="mailto:fran27dev@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"  alt="francisco navarro" height="28" width="32" /></a><a href="https://www.linkedin.com/in/fran-navarro-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco navarro" height="30" width="40" margin="10"  /></a>
 </p>
 
 
