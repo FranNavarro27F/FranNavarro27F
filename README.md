@@ -7,9 +7,9 @@ Soy Full Stack web Developer graduado 🎓 en Henry, con la programación encont
 
 ## 📊 Lenguajes - Estadísticas GitHub
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frannavarro27f&show_icons=true&theme=dracula&locale=en&layout=compact" alt="frannavarro27f" /></p>
+<p><img  height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frannavarro27f&show_icons=true&theme=dracula&locale=en&layout=compact" alt="frannavarro27f" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frannavarro27f&show_icons=true&theme=dracula&locale=en" alt="frannavarro27f" /></p>
+<p>&nbsp;<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=frannavarro27f&show_icons=true&theme=dracula&locale=en" alt="frannavarro27f" /></p>
 
 ## herramientas
 
